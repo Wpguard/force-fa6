@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Force Font Awesome 6 1.1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: \n"
+
+#: includes/class-ff6-settings.php:20
+msgid "Force Font Awesome 6"
+msgstr ""
+
+#: includes/class-ff6-settings.php:21
+msgid "Force FA6"
+msgstr ""
+
+#: includes/class-ff6-settings.php:48
+msgid "Font Awesome Version"
+msgstr ""
+
+#: includes/class-ff6-settings.php:61
+msgid "Load Solid Icons?"
+msgstr ""
+
+#: includes/class-ff6-settings.php:72
+msgid "Load Brand Icons?"
+msgstr ""
