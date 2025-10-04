@@ -24,5 +24,6 @@
 - [GitHub Profile](https://github.com/Wpguard)  
 - [WordPress.org Profile](https://profiles.wordpress.org/Wpguard/)  
 
-## 📜 License
-GPL v2 or later  
+## License
+This plugin is licensed under the **GPL v2 or later**.
+See [LICENSE](LICENSE) file for details.
