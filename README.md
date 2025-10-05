@@ -22,7 +22,7 @@
 👩‍💻 **Sanjida Afrin**  
 - WordPress Security Expert & Plugin Developer  
 - [GitHub Profile](https://github.com/Wpguard)  
-- [WordPress.org Profile](https://profiles.wordpress.org/Wpguard/)  
+- [WordPress.org Profile](https://profiles.wordpress.org/wpguardsa/)  
 
 ## License
 This plugin is licensed under the **GPL v2 or later**.
